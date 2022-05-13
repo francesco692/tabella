@@ -1,0 +1,5 @@
+cf,nome,cognome,anno_nascita,citta,genere
+aaa,francesco,serra,2002,03043,maschio
+bbb,annalisa,serra,1992,03043,femmina
+ccc,antonio,lanni,1971,87012,maschio
+ddd,marco,serra,1980,56098,maschio

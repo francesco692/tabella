@@ -1,0 +1,5 @@
+id,titolo,tipologia,descrizione
+01,lala,horror,testo descrizione 1
+02,papa,commedia,testo descrizione 2
+03,fafa,avventura,testo descrizione 3
+04,dada,horror,testo descrizione 4

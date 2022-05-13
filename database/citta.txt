@@ -1,0 +1,5 @@
+cap,nome,regione,provincia,n_abitanti,estensione
+03043,cassino,lazio,frosinone,10000,1000
+87012,roma,lazio,roma,70000,10000
+56098,genova,liguria,genova,15000,1500
+76019,latina,lazio,latina,40000,1900
